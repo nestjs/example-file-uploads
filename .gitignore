@@ -1,0 +1,6 @@
+node_modules
+dist
+.env
+coverage
+# Uploaded files (the local disk's STORAGE_ROOT)
+/storage
